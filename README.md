@@ -1,5 +1,4 @@
 # Меня зовут Бендер!
-![](https://static.wikia.nocookie.net/futurama/images/b/b2/Bender_child.jpg/revision/latest/scale-to-width-down/260?cb=20190817123020&path-prefix=ru)
 
 Моё полное имя **Бендер Сгибальщик Родригес**, если что.
 
